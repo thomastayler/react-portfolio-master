@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// eslint-disable-next-line
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';

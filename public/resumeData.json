@@ -2,7 +2,7 @@
   "main": {
     "name": "Tommy Tayler",
     "occupation": "Graduate Software Engineer",
-    "description": "Recent software engineering graduate passionate about programing and using those skills to help people",
+    "description": "I am passionate about programing and using those skills to help people",
     "image": "profile-pic.png",
     "bio": "My name is Tommy, I have recently graduated from Auckland University of Technology with a Bachelor of Software Engineering (Honours). Currently I'm learning React.js while looking for a graduate position",
     "contactmessage": "Get in touch with me to receive further details or to let me know of any job openings",
@@ -14,7 +14,7 @@
       "zip": "1026"
     },
     "website": "http://www.tommytayler.com",
-    "resumedownload": "public/thomas-tayler-cv.pdf",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1hAuXeaegsle9Aeb4sFDxQI-MxE_S2FHx",
     "social": [
       {
         "name": "facebook",
@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "The skills below represent how much exposure I have had to each programing language",
     "education": [
       {
         "school": "Auckland University of Technology (AUT)",
@@ -49,21 +49,21 @@
         "title": "Software Engineering Intern",
         "years": "Feb 2020 - Mar 2020, Oct 2020 - Present",
         "description": "Prototyping a crowd-sourced Helpline Finder website. Giving users, wherever they are in the world, access to the right helpline support for them as quickly as possible. Main objectives include speed, ease of use, and providing appropriate information are high priorities.",
-        "tech": "React.js, Typescript, CSS, Vercel, Next.js, GitHub, Storybook, Adobe XD, InVision"
+        "tech": "Tech: React.js, Typescript, CSS, Vercel, Next.js, GitHub, Storybook, Adobe XD, InVision"
       },
       {
         "company": "Tandem Ministries NZ",
         "title": "Digital Strategies Intern",
         "years": "Mar 2020 - Nov 2020",
         "description": "Create and implement digital tools to further the mission of Tandem Ministries by creating and editing content for Tandem digital assets, Web and graphic design for Tandem digital assets.",
-        "tech": "HTML, CSS, JavaScript, Adobe Experience Manager"
+        "tech": "Tech: HTML, CSS, JavaScript, Adobe Experience Manager"
       },
       {
         "company": "TnT Software",
         "title": "Junior Software Developer",
         "years": "Sep 2017 - Dec 2019",
         "description": "Create and implement digital tools to further the mission of Tandem Ministries by creating and editing content for Tandem digital assets, Web and graphic design for Tandem digital assets.",
-        "tech": "Ruby on rails, Heroku, Git, GitHub, Rollbar, Postgres, Postico"
+        "tech": "Tech: Ruby on rails, Heroku, Git, GitHub, Rollbar, Postgres, Postico"
       }
     ],
     "skills": [
@@ -73,7 +73,7 @@
       },
       {
         "name": "CSS",
-        "level": "30%"
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -85,10 +85,10 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "Java",
         "level": "80%"
       }
     ]
