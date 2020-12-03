@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-  // eslint-disable-next-line
   const [url, setUrl] = useState(
     "mailto:test@example.com?subject=subject&body=body"
   );
@@ -117,7 +116,7 @@ const Contact = ({ data }) => {
               {data?.name}
               <br />
               {data?.address.street} <br />
-              {data?.address.city}, {data?.address.state} {data?.address.zip}
+              {data?.address.city}, {data?.address.zip}
               <br />
               <span>{data?.phone}</span>
             </p>
