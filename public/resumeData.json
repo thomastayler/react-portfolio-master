@@ -68,28 +68,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "30%"
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Ruby on rails",
+        "level": "60%"
+      },
+      {
+        "name": "HTML",
+        "level": "50%"
       },
       {
         "name": "CSS",
         "level": "50%"
       },
       {
-        "name": "Git",
-        "level": "50%"
-      },
-      {
-        "name": "Ruby on rails",
+        "name": "ReactJs",
         "level": "30%"
-      },
-      {
-        "name": "HTML5",
-        "level": "50%"
-      },
-      {
-        "name": "Java",
-        "level": "80%"
       }
     ]
   },
